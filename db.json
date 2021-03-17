@@ -1,25 +1,25 @@
 {
 	"cursos":[
-	{
-		"id":1,
-		"titulo": "React",
-		"imagen":"https://ux.ed.team/img/curso-portada.png",
-		"precio":12,
-		"profesor":"Marco"
-	},
-	{
-		"id":2,
-		"titulo": "PHP",
-		"imagen":"https://ux.ed.team/img/curso-portada.png",
-		"precio":42,
-		"profesor": "Pedro"
-	},
-	{
-		"id":3,
-		"titulo":"GO",
-		"imagen":"https://ux.ed.team/img/curso-portada.png",
-		"precio":750,
-		"profesor":"Carlos"
-	}
-]
+		{
+			"id":1,
+			"titulo": "React",
+			"imagen":"https://ux.ed.team/img/curso-portada.png",
+			"precio":12,
+			"profesor":"Marco"
+		},
+		{
+			"id":2,
+			"titulo": "PHP",
+			"imagen":"https://ux.ed.team/img/curso-portada.png",
+			"precio":42,
+			"profesor": "Pedro"
+		},
+		{
+			"id":3,
+			"titulo":"GO",
+			"imagen":"https://ux.ed.team/img/curso-portada.png",
+			"precio":750,
+			"profesor":"Carlos"
+		}
+	]
 }
